@@ -7,7 +7,7 @@ body {
 }
 
 .hero {
-  background-image: url("/Images/backgoundphoto.jpg");
+  background-image: url("./Images/backgoundphoto.jpg");
   margin: 0;
   padding: 0;
   background-size: cover;
